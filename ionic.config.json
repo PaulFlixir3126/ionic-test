@@ -1,0 +1,8 @@
+{
+  "name": "VanSales",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
